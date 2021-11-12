@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 2110_LOW_THRESHOLD_SHORT_CHECKER-rescue)(type Legacy)(uri ${KIPRJMOD}/2110_LOW_THRESHOLD_SHORT_CHECKER-rescue.lib)(options "")(descr ""))
+)
